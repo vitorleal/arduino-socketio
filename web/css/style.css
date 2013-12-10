@@ -1,0 +1,27 @@
+html,
+body {
+  background: #e5e5e5;
+  font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  padding: 5%;
+  text-align: center;
+}
+
+.button {
+  background: #666;
+  border: solid 1px #444;
+  border-radius: 50%;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 44px 40px;
+  outline: none;
+}
+
+.on {
+  background: #b4ff50;
+}
